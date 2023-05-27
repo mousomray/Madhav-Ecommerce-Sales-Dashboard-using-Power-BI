@@ -1,4 +1,4 @@
-# Madhav Ecommerce Sales Dashboard using PowerBI
+# Madhav Ecommerce Sales Dashboard using Power BI
 Business problem/Objective:-
 Owner of Madhav Store wants us to help them create a dashboard to track and analyze their 
 online sales across India.
@@ -24,12 +24,12 @@ and transforming the data into a format that can be easily analyzed.
 * Implemented important KPI's to visually represent and monitor the data like sum of amount, 
   sum of profit, sum of qty and sum of AOV.
 * Added slicers to check quarterly and state wise data in one go. 
-* Created Horizontal bar chart to analyse Total amount by states. 
-* Created Donut chart to analyse Total quantity by category. 
-* Created Vertical bar chart to analyse Monthly profit. 
-* Created Vertical bar chart to analyse Total amount by customer name. 
-* Created Donut chart to analyse Total quantity by payment mode. 
-* Created Horizontal bar chart to analyse Sub-category wise profit. 
+* Created Horizontal bar chart to analyze Total amount by states. 
+* Created Donut chart to analyze Total quantity by category. 
+* Created Vertical bar chart to analyze Monthly profit. 
+* Created Vertical bar chart to analyze Total amount by customer name. 
+* Created Donut chart to analyze Total quantity by payment mode. 
+* Created Horizontal bar chart to analyze Sub-category wise profit. 
 
 # Dashboard design 
 * Added different colors for different charts. 
