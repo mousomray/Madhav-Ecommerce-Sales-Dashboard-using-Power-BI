@@ -13,7 +13,7 @@ online sales across India.
 * Final Insights 
 
 # Procedures 
-Data cleaning & wrangling:- After collecting two csv files and loading it into PowerBI performed various activities in Power Query editor like removing duplicates, fixing type errors,
+Data cleaning & wrangling :- After collecting two csv files and loading it into PowerBI performed various activities in Power Query editor like removing duplicates, fixing type errors,
 and transforming the data into a format that can be easily analyzed. 
 
 # Data Processing 
