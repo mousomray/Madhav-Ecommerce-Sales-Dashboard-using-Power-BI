@@ -1,4 +1,4 @@
-# Madhav-Ecommerce-Sales-Dashboard (PowerBI)
+# Madhav Ecommerce Sales Dashboard using PowerBI
 Business problem/Objective:-
 Owner of Madhav Store wants us to help them create a dashboard to track and analyze their 
 online sales across India.
