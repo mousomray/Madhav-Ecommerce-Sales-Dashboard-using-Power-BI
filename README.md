@@ -37,10 +37,10 @@ and transforming the data into a format that can be easily analyzed.
 * All charts are styled to fit nicely on the dashboard. 
 
 # Final Insights 
-* Maharashtra, Madhya Pradesh and Delhi are top 3 States with maximum sales and profit. 
+* Maharashtra, Madhya Pradesh and Uttar Pradesh are top 3 States with maximum sales and profit. 
 * People tend to do more shopping from clothing category. Try to give exciting offers,
- discounts, coupons to grab customers attention which will improve the sales of other categories as well.
-* Harivansh, Madhav, Madan Mohan are top 3 customers who have contributed to majority of 
+  discounts, coupons to grab customers attention which will improve the sales of other categories as well.
+* Harivansh, Madhav and Madan Mohan are top 3 customers who have contributed to majority of 
   the sales and profit generation. Being such a loyal customer for your store, reward them with 
   gifts, discount-coupons, special offers etc. This will bring other customers attention towards your store. 
 * Most preferred Mode of Payment is COD. 
